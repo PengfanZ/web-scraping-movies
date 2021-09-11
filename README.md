@@ -1,5 +1,6 @@
 # web-scraping-movies
 web scraping on the website (https://ssr1.scrape.center/)
+
 The result is stored in the data.csv file
 
 Steps to run this project:
